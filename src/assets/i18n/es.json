@@ -1,0 +1,152 @@
+{
+  "HEADER": {
+    "GOV_CO": "GOV.CO",
+    "ENTITY_TITLE": "Alcaldía Municipal de Sibundoy",
+    "SLOGAN": "Somos Sibundoy Verde",
+    "LOGIN": "Inicia sesión",
+    "SEARCH_PLACEHOLDER": "Buscar en la entidad...",
+    "LAW_COMPLIANCE": "Ley 1712 de 2014 - Transparencia y del Derecho de Acceso a la Información Pública"
+  },
+  "NAV": {
+    "HOME": "Inicio",
+    "TRANSPARENCY": "Transparencia y acceso a la información pública",
+    "ATTENTION": "Atención y Servicios a la ciudadanía",
+    "PARTICIPATE": "Participa",
+    "NEWS": "Noticias",
+    "REGULATIONS": "Normatividad",
+    "MORE": "Más",
+    "CONTRAST_MODE": "Alto Contraste",
+    "FONT_SIZE": "Tamaño de Texto"
+  },
+  "BREADCRUMB": {
+    "HOME": "Inicio",
+    "TRANSPARENCY": "Transparencia"
+  },
+  "TRANSPARENCY_TITLE": "Transparencia",
+  "SEARCH": {
+    "LABEL": "Buscar dentro de Transparencia Ley 1712",
+    "PLACEHOLDER": "Buscar por palabras clave (ej: PQRDS, Presupuesto, Contratación, TRD, Software)...",
+    "CLEAR": "Limpiar búsqueda",
+    "ALL_YEARS": "Todos los Años",
+    "ALL_CATEGORIES": "Todas las Categorías",
+    "RESULTS_COUNT": "Se encontraron {{count}} subsecciones documentales",
+    "EXPAND_ALL": "Expandir todo",
+    "COLLAPSE_ALL": "Colapsar todo",
+    "NO_RESULTS": "No se encontraron subsecciones que coincidan con la búsqueda."
+  },
+  "SECTIONS": {
+    "S1": {
+      "TITLE": "1. Instrumentos de gestión de la información pública",
+      "SUB_1_1": "1.1. Informe de peticiones, quejas, reclamos y denuncias (PQRDS)",
+      "SUB_1_2": "1.2. Mecanismos para presentar quejas y reclamos en relación con omisiones o acciones",
+      "SUB_1_3": "1.3. Costos de reproducción de la información pública",
+      "SUB_1_4": "1.4. Registro de publicaciones oficiales",
+      "SUB_1_5": "1.5. Tablas de Retención Documental (TRD)",
+      "SUB_1_6": "1.6. Programa de Gestión Documental (PGD)",
+      "SUB_1_7": "1.7. Esquema de Publicación de Información",
+      "SUB_1_8": "1.8. Índice de Información Clasificada y Reservada",
+      "SUB_1_9": "1.9. Registro de activos de información",
+      "SUB_1_10": "1.10. Instrumentos de gestión de información pública"
+    },
+    "S2": {
+      "TITLE": "2. Trámites y servicios",
+      "SUB_2_1": "2.1. Trámites, servicios y trámites en línea (Predial, ICA, Licencias)"
+    },
+    "S3": {
+      "TITLE": "3. Contratación",
+      "SUB_3_1": "3.1. Publicación del Plan Anual de Adquisiciones (PAA SECOP II)",
+      "SUB_3_2": "3.2. Publicación de procedimientos, lineamientos y políticas de compra",
+      "SUB_3_3": "3.3. Publicación de la ejecución de contratos estatales",
+      "SUB_3_4": "3.4. Publicación de la información contractual oficial"
+    },
+    "S4": {
+      "TITLE": "4. Control",
+      "SUB_4_1": "4.1. Certificado de Cumplimiento de Software Legal - Alcaldía de Sibundoy",
+      "SUB_4_2": "4.2. Información para población vulnerable y enfoque diferencial",
+      "SUB_4_3": "4.3. Entes de control y mecanismos de supervisión territorial",
+      "SUB_4_4": "4.4. Planes de Mejoramiento institucional y de Contraloría",
+      "SUB_4_5": "4.5. Reportes y evaluaciones de control interno",
+      "SUB_4_6": "4.6. Informes de gestión, evaluación y auditoría pública",
+      "SUB_4_7": "4.7. Informes de defensa judicial del Municipio"
+    },
+    "S5": {
+      "TITLE": "5. Planeación",
+      "SUB_5_1": "5.1. Informes de empalme de administración municipal",
+      "SUB_5_2": "5.2. Participación en la formulación de políticas públicas",
+      "SUB_5_3": "5.3. Metas, objetivos e indicadores de gestión del Plan de Desarrollo",
+      "SUB_5_4": "5.4. Programas y proyectos de inversión pública en ejecución",
+      "SUB_5_5": "5.5. Plan de gasto público anual",
+      "SUB_5_6": "5.6. Políticas, lineamientos y manuales de proceso"
+    },
+    "S6": {
+      "TITLE": "6. Presupuesto",
+      "SUB_6_1": "6.1. Estados Financieros del Municipio de Sibundoy",
+      "SUB_6_2": "6.2. Ejecución Presupuestal Histórica Anual",
+      "SUB_6_3": "6.3. Presupuesto General de Rentas y Gastos"
+    },
+    "S7": {
+      "TITLE": "7. Normatividad",
+      "SUB_7_1": "7.1. Normatividad municipal: Decretos, Resoluciones y Acuerdos"
+    },
+    "S8": {
+      "TITLE": "8. Información de la entidad",
+      "SUB_8_1": "8.1. Misión, visión, funciones y deberes de la entidad",
+      "SUB_8_2": "8.2. Estructura orgánica y organigrama institucional",
+      "SUB_8_3": "8.3. Directorio institucional y sedes de atención",
+      "SUB_8_4": "8.4. Directorio de servidores públicos, empleados y contratistas",
+      "SUB_8_5": "8.5. Oferta de empleo y escala salarial"
+    },
+    "S9": {
+      "TITLE": "9. Participación ciudadana",
+      "SUB_9_1": "9.1. Presupuesto participativo y mesas comunitarias",
+      "SUB_9_2": "9.2. Rendición de cuentas a la ciudadanía"
+    },
+    "S10": {
+      "TITLE": "10. Datos abiertos",
+      "SUB_10_1": "10.1. Conjuntos de datos abiertos reutilizables"
+    }
+  },
+  "DOCUMENTS": {
+    "TITLE": "Documentos Oficiales de Transparencia",
+    "PUBLISHED": "Publicado",
+    "FILE_TYPE": "Formato",
+    "SIZE": "Tamaño",
+    "ACTIONS": "Acciones",
+    "VIEW": "Previsualizar",
+    "DOWNLOAD": "Descargar",
+    "STATUS_PUBLISHED": "Vigente",
+    "STATUS_ARCHIVED": "Historico",
+    "STATUS_DRAFT": "En revisión",
+    "TOTAL": "Total de documentos"
+  },
+  "MODAL": {
+    "DETAILS": "Detalles del Documento",
+    "CODE": "Código de Radicación",
+    "RESPONSIBLE": "Dependencia Responsable",
+    "SUMMARY": "Resumen Ejecutivo",
+    "CLOSE": "Cerrar",
+    "DOWNLOAD_NOW": "Descargar Documento"
+  },
+  "ACTIONS": {
+    "VIEW_DOC": "Ver documentos",
+    "DOWNLOAD": "Descargar PDF",
+    "REQUEST_INFO": "Solicita Información",
+    "CLOSE": "Cerrar"
+  },
+  "ACCESSIBILITY": {
+    "WCAG_LABEL": "Cumplimiento WCAG 2.1 AA",
+    "TOGGLE_HIGH_CONTRAST": "Activar modo de alto contraste",
+    "INCREASE_FONT": "Aumentar texto",
+    "DECREASE_FONT": "Disminuir texto",
+    "NORMAL_FONT": "Restablecer texto"
+  },
+  "FOOTER": {
+    "ALCALDIA": "Alcaldía Municipal de Sibundoy",
+    "LOCATION": "Sibundoy, Putumayo - Colombia",
+    "ADDRESS": "Calle 16 No. 15-28, Barrio Centro",
+    "PHONE": "PBX: (+57) 608 426 0123",
+    "EMAIL": "contactenos@sibundoy-putumayo.gov.co",
+    "HOURS": "Lunes a Viernes: 8:00 AM - 12:00 M | 2:00 PM - 6:00 PM",
+    "RIGHTS": "Todos los derechos reservados."
+  }
+}
